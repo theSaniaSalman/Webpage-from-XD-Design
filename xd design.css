@@ -1,0 +1,136 @@
+body{
+    margin-left: 0px;
+    margin-top:0px;
+}
+#names{
+    margin-left: 30px;
+}
+
+#last-name{
+    margin-top:-57px;
+    margin-left:92px;
+    font-size:30px;
+}
+#dev{
+    margin-left:210px;
+    margin-top:-56px;
+    background-color: lightblue;
+    color:blue;
+    font-size: 12px;
+    padding: 3px 0px 3px 7px;
+    margin-right:960px;
+    border-radius:2px;
+}
+#email-address{
+font-size:15px;
+margin-top:8px;
+color:gray;
+}
+#design{
+    font-size: 28px;
+    margin-top:35px;
+    margin-left:30px;
+}
+#main-area{
+    display: flex;
+    flex-direction: row;
+}
+#skills{
+    margin-left:30px;
+    margin-top:70px;
+}
+#skills span{
+    display: inline-block;
+}
+.years{
+    padding-top:0px;
+    color:blue;
+    font-weight:bold;
+}
+.text{
+    margin-top:-20px;
+    margin-left:90px;
+}
+#prog{
+    color: navy;
+    font-weight: bold;
+}
+#php{
+    padding-top:8px;
+}
+.new-year{
+     margin-top:20px;   
+}
+#skills-area{
+    padding-top:10px;
+}
+#interests{
+    margin-top:72px;
+    margin-left:70px;
+}
+#interests span{
+    display: inline-block;
+}
+.new-interest{
+    margin-top: 20px;
+}
+.interest-zone{
+    padding-top:5px;
+}
+.percent-1{
+    margin-left:28px;
+    margin-top:50px;
+    display:flex;
+    flex-direction: row;
+}
+.sixty{
+    background-color: lightgray;
+    width:30%;
+    padding:30px 0px 40px 35px;
+    border-radius: 8px;
+}
+#project{
+    font-size:60px;
+    color:blue;
+}
+#proj{
+    color:blue;
+    font-weight: bold;
+}
+#plus{
+    position: relative;
+    top:-15px;
+    color:blue;
+}
+#project-text{
+    margin-top:-74px;
+    margin-left:90px;
+}
+#percent-sign{
+    position: relative;
+    top:-30px;
+    color:blue;
+    font-weight: bold;
+}
+.fifty{
+    background-color: lightgray;
+    width:32%;
+    padding:30px 20px 40px 35px;
+    border-radius: 8px;
+    margin-left:10px;
+}
+.percent-2{
+    margin-left:30px;
+    margin-top:10px;
+    display:flex;
+    flex-direction: row;
+    margin-bottom:25px;
+}
+.fifty:hover{
+    background-color: white;
+    box-shadow: 2px 2px 15px 10px gray;
+}
+.sixty:hover{
+    background-color: white;
+    box-shadow: 2px 2px 15px 10px gray;
+}
